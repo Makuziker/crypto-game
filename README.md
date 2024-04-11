@@ -9,3 +9,5 @@ Architecture:
     - Players too far away from existing server instance
 - If we need to scale concurrent games, we'll need to decouple frontend into its own static bucket
 - If players are far apart, we may need a global network accelerator service to reduce latency (AWS, Ably)
+
+Smart Contracts source code: https://mumbai.polygonscan.com/address/0x8892f0045a34e0fff68156f6b4510a193a004a5a#code
